@@ -6,6 +6,10 @@
     "name": "ACM USAL Chapter",
     "web": "http://usal.acm.org"
   },
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/ACM-USAL/bienvenida.git"
+  },
   "dependencies": {
     "reveal.js": "3.1.0"
   },
